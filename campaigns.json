@@ -1,0 +1,212 @@
+[
+  {
+    "campaign_id": "cmp_20260419195003_creative_director",
+    "blog_title": "AI in creative automation",
+    "persona": "creative_director",
+    "newsletter_file": "newsletter_creative_director.md",
+    "contact_count": 5,
+    "contact_ids": [
+      "473816947399",
+      "473816816334",
+      "473816891107",
+      "473823951573",
+      "473816816341"
+    ],
+    "sent_at": "2026-04-19T19:50:03Z"
+  },
+  {
+    "campaign_id": "cmp_20260419195003_freelance_designer",
+    "blog_title": "AI in creative automation",
+    "persona": "freelance_designer",
+    "newsletter_file": "newsletter_freelance_designer.md",
+    "contact_count": 5,
+    "contact_ids": [
+      "473824620268",
+      "473816554177",
+      "473815030475",
+      "473821560542",
+      "473815030478"
+    ],
+    "sent_at": "2026-04-19T19:50:03Z"
+  },
+  {
+    "campaign_id": "cmp_20260419195003_agency_owner",
+    "blog_title": "AI in creative automation",
+    "persona": "agency_owner",
+    "newsletter_file": "newsletter_agency_owner.md",
+    "contact_count": 5,
+    "contact_ids": [
+      "473816638139",
+      "473816891104",
+      "473816638144",
+      "473819257586",
+      "473813543665"
+    ],
+    "sent_at": "2026-04-19T19:50:03Z"
+  },
+  {
+    "campaign_id": "cmp_20260419200318_creative_director",
+    "blog_title": "How AI helps creative teams focus on strategy",
+    "persona": "creative_director",
+    "newsletter_file": "newsletter_creative_director.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473816947399,
+      473816816334,
+      473816891107,
+      473823951573,
+      473816816341
+    ],
+    "sent_at": "2026-04-19T20:03:18Z"
+  },
+  {
+    "campaign_id": "cmp_20260419200318_freelance_designer",
+    "blog_title": "How AI helps creative teams focus on strategy",
+    "persona": "freelance_designer",
+    "newsletter_file": "newsletter_freelance_designer.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473824620268,
+      473816554177,
+      473815030475,
+      473821560542,
+      473815030478
+    ],
+    "sent_at": "2026-04-19T20:03:18Z"
+  },
+  {
+    "campaign_id": "cmp_20260419200318_agency_owner",
+    "blog_title": "How AI helps creative teams focus on strategy",
+    "persona": "agency_owner",
+    "newsletter_file": "newsletter_agency_owner.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473816638139,
+      473816891104,
+      473816638144,
+      473819257586,
+      473813543665
+    ],
+    "sent_at": "2026-04-19T20:03:18Z"
+  },
+  {
+    "campaign_id": "cmp_20260420220023_creative_director",
+    "blog_title": "Test campaign for CRM logging",
+    "persona": "creative_director",
+    "newsletter_file": "newsletter_creative_director.md",
+    "contact_count": 5,
+    "contact_ids": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "sent_at": "2026-04-20T22:00:23Z"
+  },
+  {
+    "campaign_id": "cmp_20260420220259_creative_director",
+    "blog_title": "Test campaign for CRM logging",
+    "persona": "creative_director",
+    "newsletter_file": "newsletter_creative_director.md",
+    "contact_count": 5,
+    "contact_ids": [
+      "473816947399",
+      "473816816334",
+      "473816891107",
+      "473823951573",
+      "473816816341"
+    ],
+    "sent_at": "2026-04-20T22:03:00Z"
+  },
+  {
+    "campaign_id": "cmp_20260420221749_creative_director",
+    "blog_title": "AI in creative automation",
+    "persona": "creative_director",
+    "newsletter_file": "newsletter_creative_director.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473816947399,
+      473816816334,
+      473816891107,
+      473823951573,
+      473816816341
+    ],
+    "sent_at": "2026-04-20T22:17:50Z"
+  },
+  {
+    "campaign_id": "cmp_20260420221750_freelance_designer",
+    "blog_title": "AI in creative automation",
+    "persona": "freelance_designer",
+    "newsletter_file": "newsletter_freelance_designer.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473824620268,
+      473816554177,
+      473815030475,
+      473821560542,
+      473815030478
+    ],
+    "sent_at": "2026-04-20T22:17:52Z"
+  },
+  {
+    "campaign_id": "cmp_20260420221752_agency_owner",
+    "blog_title": "AI in creative automation",
+    "persona": "agency_owner",
+    "newsletter_file": "newsletter_agency_owner.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473816638139,
+      473816891104,
+      473816638144,
+      473819257586,
+      473813543665
+    ],
+    "sent_at": "2026-04-20T22:17:53Z"
+  },
+  {
+    "campaign_id": "cmp_20260420222142_creative_director",
+    "blog_title": "The Real ROI of Creative Automation for Small Agencies",
+    "persona": "creative_director",
+    "newsletter_file": "newsletter_creative_director.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473816947399,
+      473816816334,
+      473816891107,
+      473823951573,
+      473816816341
+    ],
+    "sent_at": "2026-04-20T22:21:43Z"
+  },
+  {
+    "campaign_id": "cmp_20260420222143_freelance_designer",
+    "blog_title": "The Real ROI of Creative Automation for Small Agencies",
+    "persona": "freelance_designer",
+    "newsletter_file": "newsletter_freelance_designer.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473824620268,
+      473816554177,
+      473815030475,
+      473821560542,
+      473815030478
+    ],
+    "sent_at": "2026-04-20T22:21:45Z"
+  },
+  {
+    "campaign_id": "cmp_20260420222145_agency_owner",
+    "blog_title": "The Real ROI of Creative Automation for Small Agencies",
+    "persona": "agency_owner",
+    "newsletter_file": "newsletter_agency_owner.md",
+    "contact_count": 5,
+    "contact_ids": [
+      473816638139,
+      473816891104,
+      473816638144,
+      473819257586,
+      473813543665
+    ],
+    "sent_at": "2026-04-20T22:21:46Z"
+  }
+]

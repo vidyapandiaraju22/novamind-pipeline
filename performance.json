@@ -1,0 +1,142 @@
+[
+  {
+    "campaign_id": "cmp_20260419195003_creative_director",
+    "persona": "creative_director",
+    "blog_title": "AI in creative automation",
+    "contact_count": 5,
+    "open_rate": 0.385,
+    "click_rate": 0.097,
+    "unsub_rate": 0.0034,
+    "sent_at": "2026-04-19T19:50:03Z"
+  },
+  {
+    "campaign_id": "cmp_20260419195003_freelance_designer",
+    "persona": "freelance_designer",
+    "blog_title": "AI in creative automation",
+    "contact_count": 5,
+    "open_rate": 0.468,
+    "click_rate": 0.129,
+    "unsub_rate": 0.008,
+    "sent_at": "2026-04-19T19:50:03Z"
+  },
+  {
+    "campaign_id": "cmp_20260419195003_agency_owner",
+    "persona": "agency_owner",
+    "blog_title": "AI in creative automation",
+    "contact_count": 5,
+    "open_rate": 0.308,
+    "click_rate": 0.038,
+    "unsub_rate": 0,
+    "sent_at": "2026-04-19T19:50:03Z"
+  },
+  {
+    "campaign_id": "cmp_20260419200318_creative_director",
+    "persona": "creative_director",
+    "blog_title": "How AI helps creative teams focus on strategy",
+    "contact_count": 5,
+    "open_rate": 0.433,
+    "click_rate": 0.058,
+    "unsub_rate": 0.0015,
+    "sent_at": "2026-04-19T20:03:18Z"
+  },
+  {
+    "campaign_id": "cmp_20260419200318_freelance_designer",
+    "persona": "freelance_designer",
+    "blog_title": "How AI helps creative teams focus on strategy",
+    "contact_count": 5,
+    "open_rate": 0.444,
+    "click_rate": 0.159,
+    "unsub_rate": 0.0056,
+    "sent_at": "2026-04-19T20:03:18Z"
+  },
+  {
+    "campaign_id": "cmp_20260419200318_agency_owner",
+    "persona": "agency_owner",
+    "blog_title": "How AI helps creative teams focus on strategy",
+    "contact_count": 5,
+    "open_rate": 0.294,
+    "click_rate": 0.096,
+    "unsub_rate": 0.0039,
+    "sent_at": "2026-04-19T20:03:18Z"
+  },
+  {
+    "campaign_id": "cmp_20260420220023_creative_director",
+    "persona": "creative_director",
+    "blog_title": "Test campaign for CRM logging",
+    "contact_count": 5,
+    "open_rate": 0.336,
+    "click_rate": 0.073,
+    "unsub_rate": 0.0034,
+    "sent_at": "2026-04-20T22:00:23Z"
+  },
+  {
+    "campaign_id": "cmp_20260420220259_creative_director",
+    "persona": "creative_director",
+    "blog_title": "Test campaign for CRM logging",
+    "contact_count": 5,
+    "open_rate": 0.357,
+    "click_rate": 0.068,
+    "unsub_rate": 0.0015,
+    "sent_at": "2026-04-20T22:03:00Z"
+  },
+  {
+    "campaign_id": "cmp_20260420221749_creative_director",
+    "persona": "creative_director",
+    "blog_title": "AI in creative automation",
+    "contact_count": 5,
+    "open_rate": 0.382,
+    "click_rate": 0.067,
+    "unsub_rate": 0.0011,
+    "sent_at": "2026-04-20T22:17:50Z"
+  },
+  {
+    "campaign_id": "cmp_20260420221750_freelance_designer",
+    "persona": "freelance_designer",
+    "blog_title": "AI in creative automation",
+    "contact_count": 5,
+    "open_rate": 0.445,
+    "click_rate": 0.115,
+    "unsub_rate": 0.0084,
+    "sent_at": "2026-04-20T22:17:52Z"
+  },
+  {
+    "campaign_id": "cmp_20260420221752_agency_owner",
+    "persona": "agency_owner",
+    "blog_title": "AI in creative automation",
+    "contact_count": 5,
+    "open_rate": 0.361,
+    "click_rate": 0.064,
+    "unsub_rate": 0.0014,
+    "sent_at": "2026-04-20T22:17:53Z"
+  },
+  {
+    "campaign_id": "cmp_20260420222142_creative_director",
+    "persona": "creative_director",
+    "blog_title": "The Real ROI of Creative Automation for Small Agencies",
+    "contact_count": 5,
+    "open_rate": 0.374,
+    "click_rate": 0.111,
+    "unsub_rate": 0.0011,
+    "sent_at": "2026-04-20T22:21:43Z"
+  },
+  {
+    "campaign_id": "cmp_20260420222143_freelance_designer",
+    "persona": "freelance_designer",
+    "blog_title": "The Real ROI of Creative Automation for Small Agencies",
+    "contact_count": 5,
+    "open_rate": 0.443,
+    "click_rate": 0.157,
+    "unsub_rate": 0.0042,
+    "sent_at": "2026-04-20T22:21:45Z"
+  },
+  {
+    "campaign_id": "cmp_20260420222145_agency_owner",
+    "persona": "agency_owner",
+    "blog_title": "The Real ROI of Creative Automation for Small Agencies",
+    "contact_count": 5,
+    "open_rate": 0.236,
+    "click_rate": 0.039,
+    "unsub_rate": 0.0077,
+    "sent_at": "2026-04-20T22:21:46Z"
+  }
+]

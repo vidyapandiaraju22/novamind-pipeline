@@ -1,0 +1,4 @@
+.env
+.Rhistory
+.Rproj.user
+renv/library/
