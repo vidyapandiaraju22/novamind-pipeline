@@ -92,7 +92,7 @@ novamind-pipeline/
 ### 2. Clone and set up
 
 ```bash
-git clone <this repo>
+git clone https://github.com/vidyapandiaraju22/novamind-pipeline.git
 cd novamind-pipeline
 ```
 
