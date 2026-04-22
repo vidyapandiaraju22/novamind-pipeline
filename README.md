@@ -4,6 +4,7 @@ An R-based automation pipeline that generates, distributes, and optimizes market
 
 Built as a take-home assignment for Palona AI's Content & Growth Analyst role.
 
+**📹 [Watch the demo walkthrough](https://www.loom.com/share/2647b1dc19054f8fa85ca56039c953c8)**
 ---
 
 ## What it does
